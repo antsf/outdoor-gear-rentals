@@ -1,0 +1,40 @@
+{
+    "products": [
+        {
+            "name": "Alpine Explorer 3-Person Tent",
+            "description": "A spacious 3-person tent for weekend camping.",
+            "price": 25,
+            "price_unit": "day",
+            "availability": 5,
+            "button_text": "Add to Cart",
+            "imageUrl": "https://d1yutv2xslo29o.cloudfront.net/product/variant/image/web/910004893_ORANGE_1_e151.webp"
+        },
+        {
+            "name": "Summit Climber Backpack",
+            "description": "Durable backpack with ample storage for hiking.",
+            "price": 40,
+            "price_unit": "day",
+            "availability": 3,
+            "button_text": "Add to Cart",
+            "imageUrl": "https://hikenrun.com/cdn/shop/products/1A_8f6cda13-3f7a-4c73-9e16-77c1df14cc81.jpg?v=1745896786"
+        },
+        {
+            "name": "Cozy Sleeping Bag",
+            "description": "Lightweight and warm sleeping bag for comfortable sleep.",
+            "price": 15,
+            "price_unit": "day",
+            "availability": 10,
+            "button_text": "Add to Cart",
+            "imageUrl": null
+        },
+        {
+            "name": "Trailblazer Hiking Boots",
+            "description": "Sturdy and supportive boots for challenging trails.",
+            "price": 30,
+            "price_unit": "day",
+            "availability": 7,
+            "button_text": "Add to Cart",
+            "imageUrl": "https://i.natgeofe.com/n/1fd50520-405a-4b2f-98e7-b80a134b31b7/NorthFaceHedgehog_Zappos.jpg"
+        }
+    ]
+}
