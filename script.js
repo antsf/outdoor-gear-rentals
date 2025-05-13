@@ -83,7 +83,8 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 // Define the path to your JSON file
-const productsPath = "/dummy/products.json";
+// const productsPath = "/dummy/products.json";
+const productsPath = "https://raw.githubusercontent.com/antsf/outdoor-gear-rentals/refs/heads/main/dummy/products.json";
 
 // Use fetch to load the JSON data
 fetch(productsPath)
@@ -140,7 +141,8 @@ fetch(productsPath)
   });
 
 // Define the path to your JSON file
-const categoryPath = "/dummy/categories.json";
+// const categoryPath = "/dummy/categories.json";
+const categoryPath = "https://raw.githubusercontent.com/antsf/outdoor-gear-rentals/refs/heads/main/dummy/categories.json";
 
 // Use fetch to load the JSON data
 fetch(categoryPath)
